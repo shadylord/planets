@@ -8,7 +8,7 @@ body {
   height: 650px;
   text-align: center;
   padding-top: 50px;
-  background-image: url("images/bg.jpg");
+  background-image: url("https://raw.githubusercontent.com/shadylord/planets/master/images/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
